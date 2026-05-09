@@ -6,7 +6,7 @@
     "moduleResolution": "node",
     "paths": {
       "@/*": [
-        "src/*"
+        "17_src_配置代理服务器/*"
       ]
     },
     "lib": [
